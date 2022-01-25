@@ -1,4 +1,4 @@
-# Desafio: Aprenda na Prática Programação Orientada a Objetos 
+# Desafio: Prática de Programação Orientada a Objetos 
 <br>
 
 ## 🎲 PRÁTICA: PARADIGMA DE ORIENTAÇÃO A OBJETOS.
