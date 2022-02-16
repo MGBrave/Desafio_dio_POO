@@ -1,4 +1,4 @@
-# Desafio: Prática de Programação Orientada a Objetos 
+# Prática de Programação Orientada a Objetos [<img src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png" width="50"/>](https://web.dio.me/home)
 <br>
 
 ## 🎲 PRÁTICA: PARADIGMA DE ORIENTAÇÃO A OBJETOS.
